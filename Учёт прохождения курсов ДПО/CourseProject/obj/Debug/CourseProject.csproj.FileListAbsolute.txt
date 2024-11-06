@@ -1,0 +1,865 @@
+C:\Users\Klime\source\repos\CourseProject\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Klime\source\repos\CourseProject\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Klime\source\repos\CourseProject\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Klime\source\repos\CourseProject\CourseProject\bin\Debug\EntityFramework.dll
+C:\Users\Klime\source\repos\CourseProject\CourseProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klime\source\repos\CourseProject\CourseProject\bin\Debug\EntityFramework.xml
+C:\Users\Klime\source\repos\CourseProject\CourseProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\MainWindow.g.cs
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\Pages\AddCourse.g.cs
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\Pages\AddLecturer.g.cs
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\Pages\ChangeLog.g.cs
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\Pages\ChangePass.g.cs
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\Pages\Courses.g.cs
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\Pages\LacturerInfo.g.cs
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\Pages\Lecturers.g.cs
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\App.g.cs
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject_Content.g.cs
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject_MarkupCompile.cache
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject_MarkupCompile.lref
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\MainWindow.baml
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\Pages\AddCourse.baml
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\Pages\AddLecturer.baml
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\Pages\ChangeLog.baml
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\Pages\ChangePass.baml
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\Pages\Courses.baml
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\Pages\LacturerInfo.baml
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\Pages\Lecturers.baml
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\Pages\MainPage.baml
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.g.resources
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\Pages\AuthPage.g.cs
+C:\Users\Klime\source\repos\CourseProject\CourseProject\obj\Debug\Pages\AuthPage.baml
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\bin\Debug\EntityFramework.dll
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\bin\Debug\EntityFramework.xml
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\MainWindow.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\Pages\AddCourse.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\Pages\AddLecturer.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\Pages\AuthPage.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\Pages\ChangePass.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\App.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\CourseProject_Content.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\CourseProject_MarkupCompile.cache
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\CourseProject_MarkupCompile.lref
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\MainWindow.baml
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\Pages\AddCourse.baml
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\Pages\AddLecturer.baml
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\Pages\AuthPage.baml
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\Pages\ChangePass.baml
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\Pages\MainPage.baml
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.g.resources
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\Pages\LecturersPage.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\Pages\LecturersPage.baml
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\Pages\CoursesPage.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\Pages\CoursesPage.baml
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\Pages\addCFTPage.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\CourseProject\obj\Debug\Pages\addCFTPage.baml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\MainWindow.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\Pages\addCFTPage.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\Pages\AddCourse.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\Pages\AddLecturer.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\Pages\AuthPage.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\Pages\ChangePass.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\Pages\CoursesPage.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\Pages\LecturersPage.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\App.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\CourseProject_Content.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\CourseProject_MarkupCompile.cache
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\CourseProject_MarkupCompile.lref
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\EntityFramework.dll
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\EntityFramework.xml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\MainWindow.baml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\Pages\addCFTPage.baml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\Pages\AddCourse.baml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\Pages\AddLecturer.baml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\Pages\AuthPage.baml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\Pages\ChangePass.baml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\Pages\CoursesPage.baml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\Pages\LecturersPage.baml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\Pages\MainPage.baml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.g.resources
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\DatePickerWindow.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\DatePickerWindow.baml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\ClosedXML.dll
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\Irony.dll
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\System.Buffers.dll
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\System.IO.Packaging.dll
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\System.Memory.dll
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\XLParser.dll
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\ClosedXML.xml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\System.Buffers.xml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\System.IO.Packaging.xml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\System.Memory.xml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\FormatSelectionWindow.g.cs
+C:\Users\Avelian\Desktop\Допиливаю курсач\Допиливаю курсач\CourseProject\obj\Debug\FormatSelectionWindow.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\ClosedXML.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\EntityFramework.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\Irony.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\System.Buffers.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\System.IO.Packaging.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\System.Memory.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\XLParser.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\ClosedXML.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\EntityFramework.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\System.Buffers.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\System.IO.Packaging.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\System.Memory.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\DatePickerWindow.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\FormatSelectionWindow.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\MainWindow.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\addCFTPage.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\AddCourse.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\AddLecturer.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\AuthPage.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\ChangePass.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\CoursesPage.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\LecturersPage.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\App.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject_Content.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject_MarkupCompile.cache
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject_MarkupCompile.lref
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\DatePickerWindow.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\FormatSelectionWindow.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\MainWindow.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\addCFTPage.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\AddCourse.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\AddLecturer.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\AuthPage.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\ChangePass.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\CoursesPage.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\LecturersPage.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\MainPage.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.g.resources
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Avelian\Desktop\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\DatePickerWindow.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\FormatSelectionWindow.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\MainWindow.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\addCFTPage.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\AddCourse.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\AddLecturer.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\AuthPage.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\ChangePass.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\CoursesPage.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\LecturersPage.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\App.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject_Content.g.cs
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject_MarkupCompile.cache
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject_MarkupCompile.lref
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\ClosedXML.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\EntityFramework.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\Irony.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\System.Buffers.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\System.IO.Packaging.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\System.Memory.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\XLParser.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\ClosedXML.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\EntityFramework.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\System.Buffers.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\System.IO.Packaging.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\System.Memory.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\DatePickerWindow.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\FormatSelectionWindow.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\MainWindow.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\addCFTPage.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\AddCourse.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\AddLecturer.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\AuthPage.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\ChangePass.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\CoursesPage.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\LecturersPage.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\Pages\MainPage.baml
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.g.resources
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Avelian\Desktop\КУРСАЧ\КУРСАЧ\Допиливаю курсач\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ClosedXML.dll
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.dll
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\Irony.dll
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Buffers.dll
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.IO.Packaging.dll
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Memory.dll
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\XLParser.dll
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ClosedXML.xml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.xml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Buffers.xml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.IO.Packaging.xml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Memory.xml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\DatePickerWindow.g.cs
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\FormatSelectionWindow.g.cs
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\MainWindow.g.cs
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\addCFTPage.g.cs
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddCourse.g.cs
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddLecturer.g.cs
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AuthPage.g.cs
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\ChangePass.g.cs
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CoursesPage.g.cs
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\LecturersPage.g.cs
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\App.g.cs
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_Content.g.cs
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_MarkupCompile.cache
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_MarkupCompile.lref
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\DatePickerWindow.baml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\FormatSelectionWindow.baml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\MainWindow.baml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\addCFTPage.baml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddCourse.baml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddLecturer.baml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AuthPage.baml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\ChangePass.baml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CoursesPage.baml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\LecturersPage.baml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\MainPage.baml
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.g.resources
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Klime\AppData\Roaming\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ClosedXML.dll
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.dll
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\Irony.dll
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Buffers.dll
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.IO.Packaging.dll
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Memory.dll
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\XLParser.dll
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ClosedXML.xml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.xml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Buffers.xml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.IO.Packaging.xml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Memory.xml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\DatePickerWindow.g.cs
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\FormatSelectionWindow.g.cs
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\MainWindow.g.cs
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\addCFTPage.g.cs
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddCourse.g.cs
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddLecturer.g.cs
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AuthPage.g.cs
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\ChangePass.g.cs
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CoursesPage.g.cs
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\LecturersPage.g.cs
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\App.g.cs
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_Content.g.cs
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_MarkupCompile.cache
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_MarkupCompile.lref
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\DatePickerWindow.baml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\FormatSelectionWindow.baml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\MainWindow.baml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\addCFTPage.baml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddCourse.baml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddLecturer.baml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AuthPage.baml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\ChangePass.baml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CoursesPage.baml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\LecturersPage.baml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\MainPage.baml
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.g.resources
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Klime\Desktop\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ClosedXML.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\Irony.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Buffers.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.IO.Packaging.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Memory.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\XLParser.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ClosedXML.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Buffers.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.IO.Packaging.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Memory.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\DatePickerWindow.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\FormatSelectionWindow.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\MainWindow.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\addCFTPage.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddCourse.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddLecturer.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AuthPage.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\ChangePass.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CoursesPage.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\LecturersPage.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\App.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_Content.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_MarkupCompile.cache
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_MarkupCompile.lref
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\DatePickerWindow.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\FormatSelectionWindow.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\MainWindow.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\addCFTPage.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddCourse.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddLecturer.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AuthPage.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\ChangePass.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CoursesPage.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\LecturersPage.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\MainPage.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.g.resources
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ClosedXML.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\Irony.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Buffers.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.IO.Packaging.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Memory.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\XLParser.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ClosedXML.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Buffers.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.IO.Packaging.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Memory.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\DatePickerWindow.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\FormatSelectionWindow.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\MainWindow.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\addCFTPage.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddCourse.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddLecturer.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AuthPage.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\ChangePass.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CoursesPage.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\LecturersPage.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\App.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_Content.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_MarkupCompile.cache
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_MarkupCompile.lref
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\DatePickerWindow.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\FormatSelectionWindow.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\MainWindow.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\addCFTPage.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddCourse.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddLecturer.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AuthPage.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\ChangePass.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CoursesPage.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\LecturersPage.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\MainPage.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.g.resources
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CertificatePage.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CertificatePage.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ClosedXML.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\Irony.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Buffers.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.IO.Packaging.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Memory.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\XLParser.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ClosedXML.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Buffers.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.IO.Packaging.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Memory.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\DatePickerWindow.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\FormatSelectionWindow.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\MainWindow.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\addCFTPage.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddCourse.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddLecturer.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AuthPage.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CertificatePage.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\ChangePass.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CoursesPage.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\LecturersPage.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\App.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_Content.g.cs
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_MarkupCompile.cache
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_MarkupCompile.lref
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\DatePickerWindow.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\FormatSelectionWindow.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\MainWindow.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\addCFTPage.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddCourse.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddLecturer.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AuthPage.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CertificatePage.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\ChangePass.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CoursesPage.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\LecturersPage.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\MainPage.baml
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.g.resources
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Avelian\Desktop\Учёт прохождения курсов ДПО1\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\DatePickerWindow.g.cs
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\FormatSelectionWindow.g.cs
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\MainWindow.g.cs
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\addCFTPage.g.cs
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddCourse.g.cs
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddLecturer.g.cs
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CertificatePage.g.cs
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CoursesPage.g.cs
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\LecturersPage.g.cs
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\App.g.cs
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_Content.g.cs
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_MarkupCompile.cache
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_MarkupCompile.lref
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ClosedXML.dll
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.dll
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\Irony.dll
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Buffers.dll
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.IO.Packaging.dll
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Memory.dll
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\XLParser.dll
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ClosedXML.xml
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.xml
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Buffers.xml
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.IO.Packaging.xml
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Memory.xml
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\DatePickerWindow.baml
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\FormatSelectionWindow.baml
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\MainWindow.baml
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\addCFTPage.baml
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddCourse.baml
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddLecturer.baml
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CertificatePage.baml
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CoursesPage.baml
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\LecturersPage.baml
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\MainPage.baml
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.g.resources
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Klime\My_dir\БЕКАП2\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ClosedXML.dll
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.dll
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\Irony.dll
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Buffers.dll
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.IO.Packaging.dll
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Memory.dll
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\XLParser.dll
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ClosedXML.xml
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.xml
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Buffers.xml
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.IO.Packaging.xml
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Memory.xml
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\DatePickerWindow.g.cs
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\FormatSelectionWindow.g.cs
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\MainWindow.g.cs
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\addCFTPage.g.cs
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddCourse.g.cs
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddLecturer.g.cs
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CertificatePage.g.cs
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CoursesPage.g.cs
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\LecturersPage.g.cs
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\App.g.cs
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_Content.g.cs
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_MarkupCompile.cache
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_MarkupCompile.lref
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\DatePickerWindow.baml
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\FormatSelectionWindow.baml
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\MainWindow.baml
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\addCFTPage.baml
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddCourse.baml
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddLecturer.baml
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CertificatePage.baml
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CoursesPage.baml
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\LecturersPage.baml
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\MainPage.baml
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.g.resources
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Klime\My_dir\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ClosedXML.dll
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.dll
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\Irony.dll
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Buffers.dll
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.IO.Packaging.dll
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Memory.dll
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\XLParser.dll
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ClosedXML.xml
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.xml
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Buffers.xml
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.IO.Packaging.xml
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Memory.xml
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\DatePickerWindow.g.cs
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\FormatSelectionWindow.g.cs
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\MainWindow.g.cs
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\addCFTPage.g.cs
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddCourse.g.cs
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddLecturer.g.cs
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CertificatePage.g.cs
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CoursesPage.g.cs
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\LecturersPage.g.cs
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\App.g.cs
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_Content.g.cs
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_MarkupCompile.cache
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_MarkupCompile.lref
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\DatePickerWindow.baml
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\FormatSelectionWindow.baml
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\MainWindow.baml
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\addCFTPage.baml
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddCourse.baml
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddLecturer.baml
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CertificatePage.baml
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CoursesPage.baml
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\LecturersPage.baml
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\MainPage.baml
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.g.resources
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Klime\Desktop\БЕКАП2_С_Динамическим_поиском\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.exe.config
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.exe
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\CourseProject.pdb
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ClosedXML.dll
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.dll
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.dll
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\Irony.dll
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\SixLabors.Fonts.dll
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Buffers.dll
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.IO.Packaging.dll
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Memory.dll
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\XLParser.dll
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ClosedXML.xml
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\DocumentFormat.OpenXml.Framework.xml
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.xml
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\SixLabors.Fonts.xml
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Buffers.xml
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.IO.Packaging.xml
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Memory.xml
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.AssemblyReference.cache
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\DatePickerWindow.g.cs
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\FormatSelectionWindow.g.cs
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\MainWindow.g.cs
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\addCFTPage.g.cs
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddCourse.g.cs
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddLecturer.g.cs
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CertificatePage.g.cs
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CoursesPage.g.cs
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\LecturersPage.g.cs
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\MainPage.g.cs
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\App.g.cs
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_Content.g.cs
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_MarkupCompile.cache
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject_MarkupCompile.lref
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\DatePickerWindow.baml
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\FormatSelectionWindow.baml
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\MainWindow.baml
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\addCFTPage.baml
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddCourse.baml
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\AddLecturer.baml
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CertificatePage.baml
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\CoursesPage.baml
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\LecturersPage.baml
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\Pages\MainPage.baml
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.g.resources
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.Properties.Resources.resources
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.GenerateResource.cache
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.exe
+C:\Users\Klime\Desktop\ФИНАЛЬНЫЙ ФИНАЛ ФИНАЛОВ\ФИНАЛ\Учёт прохождения курсов ДПО\Учёт прохождения курсов ДПО\CourseProject\obj\Debug\CourseProject.pdb

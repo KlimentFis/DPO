@@ -1,0 +1,63 @@
+﻿<Page x:Class="CourseProject.Pages.CoursesPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:CourseProject.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="1080" d:DesignWidth="1920"
+      Title="Курсы">
+
+    <Grid Background="#fff" Margin="0,50,0,0">
+        <Grid Background="#fff">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <!-- Заголовок -->
+
+            <!-- Кнопка добавления нового преподавателя -->
+            <Button Content="Добавить курс" Click="AddCourse_Click" FontSize="16" Background="#497c8a" Foreground="#fff" BorderBrush="#497c8a" HorizontalAlignment="Left" Margin="20,30,0,20" Width="130" Height="30" ToolTip="Перейти на страницу добавления курсов"/>
+
+            <TextBox Name="CoursesSearch" HorizontalAlignment="Left" Margin="169,30,0,0" TextWrapping="Wrap" VerticalAlignment="Top" VerticalContentAlignment="Center" Width="160" Height="30" ToolTip="Введите название курса" TextChanged="CoursesSearch_TextChanged"/>
+            <!-- Таблица или другой элемент для отображения информации из базы данных -->
+            <DataGrid Name="coursesDataGrid" Grid.Row="1" AutoGenerateColumns="False" Margin="18,16,18,28" Background="#f2f2f2" RowBackground="#fff" AlternatingRowBackground="#f2f2f2">
+                <DataGrid.Columns>
+                    <DataGridTemplateColumn>
+                        <DataGridTemplateColumn.CellTemplate>
+                            <DataTemplate>
+                                <Button Content="Удалить" 
+                                        Click="CourseDel_Click" 
+                                        Background="#497c8a" 
+                                        Foreground="#fff" 
+                                        BorderBrush="#497c8a"/>
+                            </DataTemplate>
+                        </DataGridTemplateColumn.CellTemplate>
+                    </DataGridTemplateColumn>
+                    <DataGridTextColumn Header="Идентификатор" Binding="{Binding CourseID}"/>
+                    <DataGridTextColumn Header="Название" Binding="{Binding CourseName}"/>
+                    <DataGridTextColumn Header="Организация" Binding="{Binding CourseOrganization}"/>
+                    <DataGridTextColumn Header="Количество часов" Binding="{Binding CourseHours}"/>
+                    <DataGridTextColumn Header="Вид" Binding="{Binding CourseKind}"/>
+                    <DataGridTextColumn Header="Стажировка" Binding="{Binding CourseInternship}"/>
+                    <DataGridTextColumn Header="Приоритет" Binding="{Binding CoursePriority}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+            <!-- Кнопка отфильтровать -->
+            <Button Content="Отфильтровать" Click="Filter_Course_Click" FontSize="16" Background="#497c8a" Foreground="#fff" BorderBrush="#497c8a" HorizontalAlignment="Right" Margin="0,0,25,20" Width="130" Height="30" VerticalAlignment="Bottom"/>
+
+            <ComboBox VerticalContentAlignment="Center" Name="CourseTypeComboBox" Margin="0,27,160,18" BorderBrush="#497c8a" Foreground="#497c8a" Background="#f2f2f2" HorizontalAlignment="Right" Width="130" Height="30">
+                <ComboBoxItem Content="По умолчанию"/>
+                <ComboBoxItem Content="Топ-50" />
+                <ComboBoxItem Content="Не приоритетные" />
+                <ComboBoxItem Content="По названию"/>
+                <ComboBoxItem Content="По организации"/>
+                <ComboBoxItem Content="Со стажировкой"/>
+                <ComboBoxItem Content="Без стажировки"/>
+                <ComboBoxItem Content="Технический"/>
+                <ComboBoxItem Content="Педагогический"/>
+            </ComboBox>
+        </Grid>
+    </Grid>
+</Page>

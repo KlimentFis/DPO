@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище TestBaseModelContainer" CdmEntityContainer="TestBaseEntities">
+    <EntitySetMapping Name="Completed_courses">
+      <EntityTypeMapping TypeName="TestBaseModel.Completed_courses">
+        <MappingFragment StoreEntitySet="Completed_courses">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="lecturer" ColumnName="lecturer" />
+          <ScalarProperty Name="course" ColumnName="course" />
+          <ScalarProperty Name="start_date" ColumnName="start_date" />
+          <ScalarProperty Name="end_date" ColumnName="end_date" />
+          <ScalarProperty Name="image" ColumnName="image" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Courses">
+      <EntityTypeMapping TypeName="TestBaseModel.Courses">
+        <MappingFragment StoreEntitySet="Courses">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="organization" ColumnName="organization" />
+          <ScalarProperty Name="kind" ColumnName="kind" />
+          <ScalarProperty Name="internship" ColumnName="internship" />
+          <ScalarProperty Name="hours_quantity" ColumnName="hours_quantity" />
+          <ScalarProperty Name="priority" ColumnName="priority" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Lecturers">
+      <EntityTypeMapping TypeName="TestBaseModel.Lecturers">
+        <MappingFragment StoreEntitySet="Lecturers">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="second_name" ColumnName="second_name" />
+          <ScalarProperty Name="first_name" ColumnName="first_name" />
+          <ScalarProperty Name="patronymic" ColumnName="patronymic" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Users">
+      <EntityTypeMapping TypeName="TestBaseModel.Users">
+        <MappingFragment StoreEntitySet="Users">
+          <ScalarProperty Name="ID" ColumnName="ID" />
+          <ScalarProperty Name="login" ColumnName="login" />
+          <ScalarProperty Name="password" ColumnName="password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

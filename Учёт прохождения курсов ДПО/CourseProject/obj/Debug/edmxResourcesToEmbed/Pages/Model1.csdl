@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="TestBaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Completed_courses">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="lecturer" Type="Int32" />
+    <Property Name="course" Type="Int32" />
+    <Property Name="start_date" Type="DateTime" Precision="3" />
+    <Property Name="end_date" Type="DateTime" Precision="3" />
+    <Property Name="image" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Courses" Relationship="Self.FK__Completed__cours__2A4B4B5E" FromRole="Completed_courses" ToRole="Courses" />
+    <NavigationProperty Name="Lecturers" Relationship="Self.FK__Completed__lectu__2B3F6F97" FromRole="Completed_courses" ToRole="Lecturers" />
+  </EntityType>
+  <EntityType Name="Courses">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="organization" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+    <Property Name="kind" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="internship" Type="Boolean" />
+    <Property Name="hours_quantity" Type="Int32" />
+    <Property Name="priority" Type="Int32" />
+    <NavigationProperty Name="Completed_courses" Relationship="Self.FK__Completed__cours__2A4B4B5E" FromRole="Courses" ToRole="Completed_courses" />
+  </EntityType>
+  <EntityType Name="Lecturers">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="second_name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="first_name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <Property Name="patronymic" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="Completed_courses" Relationship="Self.FK__Completed__lectu__2B3F6F97" FromRole="Lecturers" ToRole="Completed_courses" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="login" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+    <Property Name="password" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <Association Name="FK__Completed__cours__2A4B4B5E">
+    <End Role="Courses" Type="Self.Courses" Multiplicity="0..1" />
+    <End Role="Completed_courses" Type="Self.Completed_courses" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Courses">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Completed_courses">
+        <PropertyRef Name="course" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Completed__lectu__2B3F6F97">
+    <End Role="Lecturers" Type="Self.Lecturers" Multiplicity="0..1" />
+    <End Role="Completed_courses" Type="Self.Completed_courses" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Lecturers">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Completed_courses">
+        <PropertyRef Name="lecturer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="TestBaseEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Completed_courses" EntityType="Self.Completed_courses" />
+    <EntitySet Name="Courses" EntityType="Self.Courses" />
+    <EntitySet Name="Lecturers" EntityType="Self.Lecturers" />
+    <EntitySet Name="Users" EntityType="Self.Users" />
+    <AssociationSet Name="FK__Completed__cours__2A4B4B5E" Association="Self.FK__Completed__cours__2A4B4B5E">
+      <End Role="Courses" EntitySet="Courses" />
+      <End Role="Completed_courses" EntitySet="Completed_courses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Completed__lectu__2B3F6F97" Association="Self.FK__Completed__lectu__2B3F6F97">
+      <End Role="Lecturers" EntitySet="Lecturers" />
+      <End Role="Completed_courses" EntitySet="Completed_courses" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

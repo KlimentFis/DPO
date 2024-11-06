@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Хранилище TestBaseModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Completed_courses">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="lecturer" Type="int" />
+    <Property Name="course" Type="int" />
+    <Property Name="start_date" Type="datetime" />
+    <Property Name="end_date" Type="datetime" />
+    <Property Name="image" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <EntityType Name="Courses">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="name" Type="nvarchar" MaxLength="100" />
+    <Property Name="organization" Type="nvarchar" MaxLength="200" />
+    <Property Name="kind" Type="nvarchar" MaxLength="50" />
+    <Property Name="internship" Type="bit" />
+    <Property Name="hours_quantity" Type="int" />
+    <Property Name="priority" Type="int" />
+  </EntityType>
+  <EntityType Name="Lecturers">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="second_name" Type="nvarchar" MaxLength="100" />
+    <Property Name="first_name" Type="nvarchar" MaxLength="100" />
+    <Property Name="patronymic" Type="nvarchar" MaxLength="100" />
+  </EntityType>
+  <EntityType Name="Users">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="login" Type="nvarchar" MaxLength="50" />
+    <Property Name="password" Type="nvarchar" MaxLength="200" />
+  </EntityType>
+  <Association Name="FK__Completed__cours__2A4B4B5E">
+    <End Role="Courses" Type="Self.Courses" Multiplicity="0..1" />
+    <End Role="Completed_courses" Type="Self.Completed_courses" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Courses">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Completed_courses">
+        <PropertyRef Name="course" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Completed__lectu__2B3F6F97">
+    <End Role="Lecturers" Type="Self.Lecturers" Multiplicity="0..1" />
+    <End Role="Completed_courses" Type="Self.Completed_courses" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Lecturers">
+        <PropertyRef Name="ID" />
+      </Principal>
+      <Dependent Role="Completed_courses">
+        <PropertyRef Name="lecturer" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Хранилище TestBaseModelContainer">
+    <EntitySet Name="Completed_courses" EntityType="Self.Completed_courses" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Courses" EntityType="Self.Courses" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Lecturers" EntityType="Self.Lecturers" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK__Completed__cours__2A4B4B5E" Association="Self.FK__Completed__cours__2A4B4B5E">
+      <End Role="Courses" EntitySet="Courses" />
+      <End Role="Completed_courses" EntitySet="Completed_courses" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Completed__lectu__2B3F6F97" Association="Self.FK__Completed__lectu__2B3F6F97">
+      <End Role="Lecturers" EntitySet="Lecturers" />
+      <End Role="Completed_courses" EntitySet="Completed_courses" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

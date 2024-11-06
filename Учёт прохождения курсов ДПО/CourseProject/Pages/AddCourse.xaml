@@ -1,0 +1,63 @@
+﻿<Page x:Class="CourseProject.Pages.AddCourse"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+    xmlns:local="clr-namespace:CourseProject.Pages"
+    mc:Ignorable="d" 
+    d:DesignHeight="450" d:DesignWidth="800"
+    Title="Добавление курса" Width="1920" Height="1080">
+
+    <Grid Background="#F2F2F2">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <!-- Название курса -->
+        <Button Content="Назад" x:Name="Export_Copy" Margin="12,9,0,1" RenderTransformOrigin="-3.568,6.347" Click="Back_Click" HorizontalAlignment="Left" Width="130" Height="30"/>
+        <TextBlock Grid.Row="0" Grid.ColumnSpan="2" Text="Добавление курса" FontWeight="Bold" FontSize="20" HorizontalAlignment="Center" Margin="10" Foreground="#497C8A"/>
+        <TextBlock Grid.Row="1" Text="Название курса:" Margin="10" Foreground="#497C8A"/>
+        <TextBox Grid.Row="1" Grid.Column="1" Name="CourseNameTextBox" Margin="10" Width="200" ToolTip="Введите название курса для добавления" Background="#FFFFFF"/>
+
+        <!-- Название организации -->
+        <TextBlock Grid.Row="2" Text="Название организации:" Margin="10" Foreground="#497C8A"/>
+        <TextBox Grid.Row="2" Grid.Column="1" Name="OrganizationTextBox" Margin="10" Width="200" ToolTip="Введите название организации проводящий курс" Background="#FFFFFF"/>
+
+        <!-- Дата начала курса -->
+
+        <!-- Дата окончания курса -->
+
+        <!-- Количество часов -->
+        <TextBlock Grid.Row="4" Text="Количество часов:" Margin="10" Foreground="#497C8A"/>
+        <TextBox Grid.Row="4" Grid.Column="1" Name="HoursQuantityTextBox" Margin="10" Width="200" ToolTip="Введите  количество часов в выбранном курсе" Background="#FFFFFF" TextChanged="TextBox_TextChanged"/>
+
+        <!-- Выбор вида курса -->
+        <TextBlock Grid.Row="5" Text="Вид курса:" Margin="10" Foreground="#497C8A"/>
+        <ComboBox Grid.Row="5" Grid.Column="1" Name="CourseTypeComboBox" Margin="10" Width="200" ToolTip="Выберите вид курса" Background="#FFFFFF">
+            <ComboBoxItem Content="Педагогический" Foreground="#497C8A"/>
+            <ComboBoxItem Content="Технический" Foreground="#497C8A"/>
+        </ComboBox>
+
+        <!-- Отметка о стажировке -->
+        <CheckBox Grid.Row="6" Grid.Column="1" Content="Курс в рамках стажировки" Name="InternshipCheckBox" Margin="10" Foreground="#497C8A" ToolTip="Отметьте если курс проходиться в рамках стажировки"/>
+
+        <!-- Отметка о стажировке -->
+        <CheckBox Grid.Row="7" Grid.Column="1" Content="Курс приоритетен" Name="PriorityCheckBox" Margin="10" Foreground="#497C8A" ToolTip="Отметьте если курс особо важен"/>
+
+        <!-- Кнопка добавления -->
+        <Button Grid.Row="8" Content="Добавить" Name="AddButton" Margin="145,10,295,10" Click="AddCourse_Click" Grid.Column="1" ToolTip="Нажмите чтобы подтвердить добавления курс по введенным выше данным" Background="#497C8A" Foreground="#FFFFFF" RenderTransformOrigin="0.543,0.492"/>
+    </Grid>
+</Page>

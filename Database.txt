@@ -1,0 +1,76 @@
+USE [TestBase]
+GO
+/****** Object:  Table [dbo].[Completed_courses]    Script Date: 22.11.2023 5:19:19 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Completed_courses](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[lecturer] [int] NULL,
+	[course] [int] NULL,
+	[start_date] [datetime] NULL,
+	[end_date] [datetime] NULL,
+	[image] [nvarchar](200) NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Courses]    Script Date: 22.11.2023 5:19:19 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Courses](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[name] [nvarchar](100) NULL,
+	[organization] [nvarchar](200) NULL,
+	[kind] [nvarchar](50) NULL,
+	[internship] [bit] NULL,
+	[hours_quantity] [int] NULL,
+	[priority] [int] NULL,
+PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Lecturers]    Script Date: 22.11.2023 5:19:19 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Lecturers](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[second_name] [nvarchar](100) NULL,
+	[first_name] [nvarchar](100) NULL,
+	[patronymic] [nvarchar](100) NULL,
+ CONSTRAINT [PK_Преподаватели] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+/****** Object:  Table [dbo].[Users]    Script Date: 22.11.2023 5:19:19 ******/
+SET ANSI_NULLS ON
+GO
+SET QUOTED_IDENTIFIER ON
+GO
+CREATE TABLE [dbo].[Users](
+	[ID] [int] IDENTITY(1,1) NOT NULL,
+	[login] [nvarchar](50) NULL,
+	[password] [nvarchar](200) NULL,
+ CONSTRAINT [PK_Пользователи] PRIMARY KEY CLUSTERED 
+(
+	[ID] ASC
+)WITH (PAD_INDEX = OFF, STATISTICS_NORECOMPUTE = OFF, IGNORE_DUP_KEY = OFF, ALLOW_ROW_LOCKS = ON, ALLOW_PAGE_LOCKS = ON, OPTIMIZE_FOR_SEQUENTIAL_KEY = OFF) ON [PRIMARY]
+) ON [PRIMARY]
+GO
+ALTER TABLE [dbo].[Completed_courses]  WITH CHECK ADD FOREIGN KEY([course])
+REFERENCES [dbo].[Courses] ([ID])
+GO
+ALTER TABLE [dbo].[Completed_courses]  WITH CHECK ADD FOREIGN KEY([lecturer])
+REFERENCES [dbo].[Lecturers] ([ID])
+GO

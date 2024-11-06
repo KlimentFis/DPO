@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="Хранилище TestBaseModel" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="Completed_courses">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="lecturer" Type="int" />
+          <Property Name="course" Type="int" />
+          <Property Name="start_date" Type="datetime" />
+          <Property Name="end_date" Type="datetime" />
+          <Property Name="image" Type="nvarchar" MaxLength="200" />
+        </EntityType>
+        <EntityType Name="Courses">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="name" Type="nvarchar" MaxLength="100" />
+          <Property Name="organization" Type="nvarchar" MaxLength="200" />
+          <Property Name="kind" Type="nvarchar" MaxLength="50" />
+          <Property Name="internship" Type="bit" />
+          <Property Name="hours_quantity" Type="int" />
+          <Property Name="priority" Type="int" />
+        </EntityType>
+        <EntityType Name="Lecturers">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="second_name" Type="nvarchar" MaxLength="100" />
+          <Property Name="first_name" Type="nvarchar" MaxLength="100" />
+          <Property Name="patronymic" Type="nvarchar" MaxLength="100" />
+        </EntityType>
+        <EntityType Name="Users">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+          <Property Name="login" Type="nvarchar" MaxLength="50" />
+          <Property Name="password" Type="nvarchar" MaxLength="200" />
+        </EntityType>
+        <Association Name="FK__Completed__cours__2A4B4B5E">
+          <End Role="Courses" Type="Self.Courses" Multiplicity="0..1" />
+          <End Role="Completed_courses" Type="Self.Completed_courses" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Courses">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Completed_courses">
+              <PropertyRef Name="course" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Completed__lectu__2B3F6F97">
+          <End Role="Lecturers" Type="Self.Lecturers" Multiplicity="0..1" />
+          <End Role="Completed_courses" Type="Self.Completed_courses" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Lecturers">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Completed_courses">
+              <PropertyRef Name="lecturer" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="Хранилище TestBaseModelContainer">
+          <EntitySet Name="Completed_courses" EntityType="Self.Completed_courses" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Courses" EntityType="Self.Courses" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Lecturers" EntityType="Self.Lecturers" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="Users" EntityType="Self.Users" Schema="dbo" store:Type="Tables" />
+          <AssociationSet Name="FK__Completed__cours__2A4B4B5E" Association="Self.FK__Completed__cours__2A4B4B5E">
+            <End Role="Courses" EntitySet="Courses" />
+            <End Role="Completed_courses" EntitySet="Completed_courses" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Completed__lectu__2B3F6F97" Association="Self.FK__Completed__lectu__2B3F6F97">
+            <End Role="Lecturers" EntitySet="Lecturers" />
+            <End Role="Completed_courses" EntitySet="Completed_courses" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="TestBaseModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="Completed_courses">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="lecturer" Type="Int32" />
+          <Property Name="course" Type="Int32" />
+          <Property Name="start_date" Type="DateTime" Precision="3" />
+          <Property Name="end_date" Type="DateTime" Precision="3" />
+          <Property Name="image" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Courses" Relationship="Self.FK__Completed__cours__2A4B4B5E" FromRole="Completed_courses" ToRole="Courses" />
+          <NavigationProperty Name="Lecturers" Relationship="Self.FK__Completed__lectu__2B3F6F97" FromRole="Completed_courses" ToRole="Lecturers" />
+        </EntityType>
+        <EntityType Name="Courses">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="organization" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+          <Property Name="kind" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="internship" Type="Boolean" />
+          <Property Name="hours_quantity" Type="Int32" />
+          <Property Name="priority" Type="Int32" />
+          <NavigationProperty Name="Completed_courses" Relationship="Self.FK__Completed__cours__2A4B4B5E" FromRole="Courses" ToRole="Completed_courses" />
+        </EntityType>
+        <EntityType Name="Lecturers">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="second_name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="first_name" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <Property Name="patronymic" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
+          <NavigationProperty Name="Completed_courses" Relationship="Self.FK__Completed__lectu__2B3F6F97" FromRole="Lecturers" ToRole="Completed_courses" />
+        </EntityType>
+        <EntityType Name="Users">
+          <Key>
+            <PropertyRef Name="ID" />
+          </Key>
+          <Property Name="ID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+          <Property Name="login" Type="String" MaxLength="50" FixedLength="false" Unicode="true" />
+          <Property Name="password" Type="String" MaxLength="200" FixedLength="false" Unicode="true" />
+        </EntityType>
+        <Association Name="FK__Completed__cours__2A4B4B5E">
+          <End Role="Courses" Type="Self.Courses" Multiplicity="0..1" />
+          <End Role="Completed_courses" Type="Self.Completed_courses" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Courses">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Completed_courses">
+              <PropertyRef Name="course" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <Association Name="FK__Completed__lectu__2B3F6F97">
+          <End Role="Lecturers" Type="Self.Lecturers" Multiplicity="0..1" />
+          <End Role="Completed_courses" Type="Self.Completed_courses" Multiplicity="*" />
+          <ReferentialConstraint>
+            <Principal Role="Lecturers">
+              <PropertyRef Name="ID" />
+            </Principal>
+            <Dependent Role="Completed_courses">
+              <PropertyRef Name="lecturer" />
+            </Dependent>
+          </ReferentialConstraint>
+        </Association>
+        <EntityContainer Name="TestBaseEntities" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="Completed_courses" EntityType="Self.Completed_courses" />
+          <EntitySet Name="Courses" EntityType="Self.Courses" />
+          <EntitySet Name="Lecturers" EntityType="Self.Lecturers" />
+          <EntitySet Name="Users" EntityType="Self.Users" />
+          <AssociationSet Name="FK__Completed__cours__2A4B4B5E" Association="Self.FK__Completed__cours__2A4B4B5E">
+            <End Role="Courses" EntitySet="Courses" />
+            <End Role="Completed_courses" EntitySet="Completed_courses" />
+          </AssociationSet>
+          <AssociationSet Name="FK__Completed__lectu__2B3F6F97" Association="Self.FK__Completed__lectu__2B3F6F97">
+            <End Role="Lecturers" EntitySet="Lecturers" />
+            <End Role="Completed_courses" EntitySet="Completed_courses" />
+          </AssociationSet>
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="Хранилище TestBaseModelContainer" CdmEntityContainer="TestBaseEntities">
+          <EntitySetMapping Name="Completed_courses">
+            <EntityTypeMapping TypeName="TestBaseModel.Completed_courses">
+              <MappingFragment StoreEntitySet="Completed_courses">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="lecturer" ColumnName="lecturer" />
+                <ScalarProperty Name="course" ColumnName="course" />
+                <ScalarProperty Name="start_date" ColumnName="start_date" />
+                <ScalarProperty Name="end_date" ColumnName="end_date" />
+                <ScalarProperty Name="image" ColumnName="image" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Courses">
+            <EntityTypeMapping TypeName="TestBaseModel.Courses">
+              <MappingFragment StoreEntitySet="Courses">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="name" ColumnName="name" />
+                <ScalarProperty Name="organization" ColumnName="organization" />
+                <ScalarProperty Name="kind" ColumnName="kind" />
+                <ScalarProperty Name="internship" ColumnName="internship" />
+                <ScalarProperty Name="hours_quantity" ColumnName="hours_quantity" />
+                <ScalarProperty Name="priority" ColumnName="priority" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Lecturers">
+            <EntityTypeMapping TypeName="TestBaseModel.Lecturers">
+              <MappingFragment StoreEntitySet="Lecturers">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="second_name" ColumnName="second_name" />
+                <ScalarProperty Name="first_name" ColumnName="first_name" />
+                <ScalarProperty Name="patronymic" ColumnName="patronymic" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="Users">
+            <EntityTypeMapping TypeName="TestBaseModel.Users">
+              <MappingFragment StoreEntitySet="Users">
+                <ScalarProperty Name="ID" ColumnName="ID" />
+                <ScalarProperty Name="login" ColumnName="login" />
+                <ScalarProperty Name="password" ColumnName="password" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="false" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="Нет" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>
